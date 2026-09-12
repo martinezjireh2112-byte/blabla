@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://csx2ieu1amb8t"]
+
+[node name="BlueCoin" type="Area2D" unique_id=36046802]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1134179578]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=522113924]

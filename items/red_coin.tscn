@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://c5pfkb7khamoq"]
+
+[node name="RedCoin" type="Area2D" unique_id=127347847]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1688505910]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=394554422]
